@@ -22,5 +22,6 @@ public class Main {
         System.out.println("T \t F \t" + c);
         System.out.println("F \t T \t" + c);
         System.out.println("F \t F \t" + c);
+        l
     }
 }
